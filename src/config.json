@@ -1,0 +1,32 @@
+{
+    "oauth-support": true,
+    "company": "E-Commerce",
+    "ourContactInfo": "tel: +20xxxxxxxxxx",
+    "footer-sections": {
+        "shop": [
+            {
+                "title": "starter",
+                "value": "#"
+            }
+        ],
+        "information": [
+            {
+                "title": "about us",
+                "value": "#"
+            }
+        ],
+        "here to help": [
+            {
+                "title": "address",
+                "value": "#"
+            }
+        ],
+        "follow us": [
+            {
+                "title": "facebook",
+                "value": "#"
+            }
+        ]
+    },
+    "currency": "EGP"
+}
